@@ -50,9 +50,8 @@ public class ContaUsuario {
             System.out.println("-----Dados da conta----- \n" +
                     "-----Número da conta - "+  usuario.getNumeroConta()+
                     "\n-----Agência - "+  usuario.getAgenciaConta());
-            //System.out.println("-----Saldo atual - R$ "+ usuario.getSaldoConta());
-            System.out.printf("Saldo atual - R$ %.2f\n", usuario.getSaldoConta());
-            System.out.println("Operações: " +
+            System.out.printf("-----Saldo atual - R$ %.2f\n", usuario.getSaldoConta());
+            System.out.println("-----Operações: " +
                     "Depósito [1] || "+
                     "Saque [2]");
             break;
