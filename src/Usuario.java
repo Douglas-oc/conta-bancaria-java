@@ -4,7 +4,7 @@ public class Usuario {
     private String nome;
     private String senha;
     private final String agenciaConta;
-    private final float saldoConta;
+    private float saldoConta;
     private final int numeroConta;
 
     public Usuario() {
@@ -37,6 +37,10 @@ public class Usuario {
 
     public float getSaldoConta() {
         return saldoConta;
+    }
+
+    public void setSaldoConta(float saldoConta) {
+        this.saldoConta = saldoConta;
     }
 
 
