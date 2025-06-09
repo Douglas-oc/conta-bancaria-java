@@ -21,9 +21,10 @@ Bem-vindo ao **JavinhaBank**, uma aplicação de terminal que simula o funcionam
    git clone https://github.com/Douglas-oc/conta-bancaria-java.git
    javac *.java
    java ContaTerminal
+<br>
 
-## 🏅 Créditos
-![image](https://github.com/user-attachments/assets/bc290e7a-f20e-40aa-9137-157f6ef21b97)
-
-Este foi um projeto educacional da Digital Innovation One.
-🔗 Repositório original: [digitalinnovationone/trilha-java-basico](https://github.com/digitalinnovationone/trilha-java-basico/tree/main/desafios/sintaxe)
+<div align=center>
+   
+   ![image](https://github.com/user-attachments/assets/bc290e7a-f20e-40aa-9137-157f6ef21b97)
+   
+</div>
